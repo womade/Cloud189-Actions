@@ -1,7 +1,7 @@
-- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-05-16 18:46:17
+- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-05-17 00:49:13
 - 开始执行帐号1
 - 登录成功
-- 已经签到过了，签到获得83M空间
-- 第1抽奖失败，可能是次数不足了
+- 已经签到过了，签到获得55M空间
+- 第1抽奖成功：获得天翼云盘50M空间
 - 第2抽奖失败，可能是次数不足了
 - 第3抽奖失败，可能是次数不足了
